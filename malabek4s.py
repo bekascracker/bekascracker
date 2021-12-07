@@ -1,7 +1,4 @@
-# Cod By 🏳مـــەلـــا بــێــکـــەســـ📿
-# Channel @python453
-# CHannel 2 @team453
-# Me @mala_bek4s
+
 
 import os, sys, time, datetime, random, hashlib, re, threading, json, urllib, cookielib, getpass
 os.system('rm -rf .txt')
