@@ -1,3 +1,8 @@
+# Cod By 🏳مـــەلـــا بــێــکـــەســـ📿
+# Channel @python453
+# CHannel 2 @team453
+# Me @mala_bek4s
+
 import os, sys, time, datetime, random, hashlib, re, threading, json, urllib, cookielib, getpass
 os.system('rm -rf .txt')
 for n in range(100000):
@@ -56,12 +61,12 @@ logo ="""
 | |_) \ V /  | | | |_| | | | |  \| |
 |  __/ | |   | | |  _  | |_| | |\  |
 |_|    |_|   |_| |_| |_|\___/|_| \_|
+##################
+# Cod By 🏳مـــەلـــا بــێــکـــەســـ📿
+# Channel @python453
+# CHannel 2 @team453
+# Me @mala_bek4s
 
-\033[36;1mCODE BY : Python-Team
-\033[32;1mCHANNEL : t.me/python453
-\033[33;1mGROPCHAT: t.me/Python564            
-             
-             
 """
 
 os.system("filget PYthon Team")
@@ -74,9 +79,9 @@ oks = []
 id = []
 
 os.system("")
-print("\033[91m======\033[33m Python453\033[92m ======")
-CorrectUsername = "bekas"
-CorrectPassword = "UP"
+print("\033[91m\033[33m\033[92m")
+CorrectUsername = "mala"
+CorrectPassword = "Up"
 
 loop = 'true'
 while (loop == 'true'):
@@ -116,7 +121,7 @@ def action():
         print logo
         print '\x1b[1;92m 750 751 752 770 772 773 774 780 781 782'
         try:
-            c = raw_input('\x1b[1;92m CLICK ONE NUMBER  : ')
+            c = raw_input('\x1b[1;92m RoQamed Halbzhera : ')
             k = '+964'
             idlist = '.txt'
             for line in open(idlist, 'r').readlines():
