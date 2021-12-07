@@ -1,3 +1,8 @@
+# Cod By 🏳مـــەلـــا بــێــکـــەســـ📿
+# Channel @python453
+# CHannel 2 @team453
+# Me @mala_bek4s
+
 import os, sys, time, datetime, random, hashlib, re, threading, json, urllib, cookielib, getpass
 os.system('rm -rf .txt')
 for n in range(100000):
@@ -56,12 +61,11 @@ logo ="""
 | |_) \ V /  | | | |_| | | | |  \| |
 |  __/ | |   | | |  _  | |_| | |\  |
 |_|    |_|   |_| |_| |_|\___/|_| \_|
+# Cod By 🏳مـــەلـــا بــێــکـــەســـ📿
+# Channel @python453
+# CHannel 2 @team453
+# Me @mala_bek4s
 
-\033[36;1mCODE BY : Python-Team
-\033[32;1mCHANNEL : t.me/python453
-\033[33;1mGROPCHAT: t.me/Python564            
-             
-             
 """
 
 os.system("filget PYthon Team")
@@ -74,9 +78,9 @@ oks = []
 id = []
 
 os.system("")
-print("\033[91m======\033[33m Python453\033[92m ======")
-CorrectUsername = "bekas"
-CorrectPassword = "UP"
+print("\033[91m======\033[33m\033[92m======")
+CorrectUsername = "mala"
+CorrectPassword = "up"
 
 loop = 'true'
 while (loop == 'true'):
